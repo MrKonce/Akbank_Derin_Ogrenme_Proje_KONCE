@@ -22,3 +22,6 @@ PROJE SÜRECİ
 Literatür Araştırması: Benzer çalışmaları incelemek ve güncel gelişmeleri takip etmek. Veri Toplama ve Hazırlık: Veri setini oluşturmak ve ön işlemler uygulamak. Model Oluşturma ve Eğitim: Derin öğrenme modelini oluşturmak ve eğitmek. Model Değerlendirmesi: Modelin performansını değerlendirmek. Sonuçların Analizi ve Raporlama: Sonuçları yorumlamak ve raporlamak.
 
 
+KAGGLE LİNK: https://www.kaggle.com/code/emrekonce/fish-classification-bootcamp-project/notebook
+
+
