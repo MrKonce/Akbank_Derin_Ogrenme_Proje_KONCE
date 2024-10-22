@@ -1,4 +1,4 @@
-# Akbank_Derin_Ogrenme_Proje_KONCE
+# AKBNK_Derin_Ogrenme_Konce
 
 This project is part of the Akbank Deep Learning Bootcamp. The goal is to classify fish species using a deep learning model trained on the [Fish Dataset](https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset).
 
